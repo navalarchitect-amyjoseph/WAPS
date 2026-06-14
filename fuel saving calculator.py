@@ -1,9 +1,7 @@
 """Fuel Saving Calculator and AOA Optimizer.
 
 This desktop application combines voyage fuel saving calculations with the
-hydrodynamic AOA optimisation graph.  The code keeps the original engineering
-calculation flow, but the UI has been cleaned up into reusable styling helpers
-so future changes can be made from one place instead of editing every widget.
+hydrodynamic AOA optimisation graph. 
 """
 
 import os
